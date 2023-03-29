@@ -1,6 +1,7 @@
 # SUMMARY
 
 Built-in server command with xdebug option available
+Modified to install with php 8.1.2
 
 # INSTALL
 
