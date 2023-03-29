@@ -1,5 +1,5 @@
 {
-    "name": "crhg/laravel-serve-xdebug",
+    "name": "epertinez/laravel-serve-xdebug",
     "type": "library",
     "description": "add serve:xdebug artisan command",
     "license": "MIT",
